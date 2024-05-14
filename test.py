@@ -35,7 +35,7 @@ def aleatoire(boolen,liste,min,max) :
         return res
     else:
         res = random.randint(min,max)
-        return res;
+        return res
 
 
 liste=[1,20,30]
